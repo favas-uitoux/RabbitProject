@@ -18,8 +18,7 @@ public interface Endpoint {
     @GET("v2/5d565297300000680030a986")
     Call<List<ResponseItem>> fetch_employees();
 
-//    @GET("v2/5d565297300000680030a986")
-//    Call<Response> fetch_employees();
+
 
 
 }

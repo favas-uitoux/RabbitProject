@@ -59,8 +59,8 @@ public class EmployDetailsActivity extends BaseActivity {
 
 
         TextView txtMob=findViewById(R.id.txtMob);
-//
-//
+
+
         TextView txtweb=findViewById(R.id.txtweb);
 
 

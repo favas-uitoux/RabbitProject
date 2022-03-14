@@ -3,9 +3,20 @@ package com.project.myapplicationj;
 import android.net.Uri;
 
 import com.project.myapplicationj.interfac.ShowEmployDetailsInterface;
+import com.project.myapplicationj.interfac.TestActivityInterfac;
 
 public class Utils {
 
+
+    public static TestActivityInterfac testActivityInterfac=null;
+
+    public static TestActivityInterfac getTestActivityInterfac() {
+        return testActivityInterfac;
+    }
+
+    public static void setTestActivityInterfac(TestActivityInterfac testActivityInterfac) {
+        Utils.testActivityInterfac = testActivityInterfac;
+    }
 
     public static  String dbName="Rabbit";
 

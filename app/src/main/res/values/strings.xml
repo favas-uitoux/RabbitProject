@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">My ApplicationJ</string>
+    <string name="accessibility_service_label">acc service</string>
+    <string name="accessibility_service_description">my acc desp</string>
 </resources>
