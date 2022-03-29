@@ -26,7 +26,7 @@
             android:screenOrientation="portrait"/>
 
 
-        <activity android:name=".activities.TestActivity"
+        <activity android:name=".activities.TimeUIActivity"
             android:screenOrientation="portrait">
 
 
